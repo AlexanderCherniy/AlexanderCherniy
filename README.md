@@ -1,5 +1,1 @@
-- 👋 Hi, I’m AlexanderCherniy
-- 👀 I'm interested in coding, I really like to learn new things
-- 🌱 I am now studying to be a web developer, I want to get better and better
-- 💞️ I’m looking to collaborate on everyone
-- 📫 You can write to me - @scernysev389@gmail.com
+
